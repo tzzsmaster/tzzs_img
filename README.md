@@ -1,2 +1,2 @@
-# tzzs_img
+# Figure bed
 tzzs Figure bed
